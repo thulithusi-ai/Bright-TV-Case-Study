@@ -22,7 +22,7 @@ For planning and design :
 MIRO
 CANVA
 4. Data Engineering & Processing
-For data processing I am using : *Databricks
+For data processing I am using : Databricks
 
 5. Data Analysis & Visualization
 Microsoft Excel
@@ -33,4 +33,4 @@ Power BI
 Final Presentation
 
 7. Presentation & Reporting
-*Microsoft PowerPoint
+Microsoft PowerPoint
